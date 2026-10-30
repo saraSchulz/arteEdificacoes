@@ -18,7 +18,7 @@
           </a>
         </li>
         <li>
-          <a href="https://www.facebook.com/profile.php?id=61591919670765&locale=pt_BR">
+          <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
           <i class="mdi mdi-email"></i>
           arteedificacaoschulz@gmail.com
           </a>
